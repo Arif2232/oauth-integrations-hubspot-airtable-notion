@@ -1,6 +1,6 @@
-# Connector Lab
+# Connector Lab — OAuth Integrations for HubSpot, Airtable and Notion
 
-A small OAuth integration playground for connecting HubSpot, Airtable, and Notion and browsing the items available to each connection.
+An OAuth 2.0 integration demo for connecting HubSpot, Airtable, and Notion, built with Python, FastAPI, React, and Redis.
 
 **React · FastAPI · Redis · OAuth 2.0**
 
